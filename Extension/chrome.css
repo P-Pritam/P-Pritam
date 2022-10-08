@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 10px;
+}
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    border: solid;
+    border-radius: 4px;
+}
+#input-btn,#tab-btn{
+    padding: 10px;
+    background-color: rgb(23, 190, 23);
+    color: #ffff;
+    border: none;
+    border-radius: 4px;
+}
+#del-btn{
+    padding: 10px;
+    background-color: #ffff;
+    color: rgb(23, 190, 23);
+    border: 1px solid rgb(23, 190, 23);
+    border-radius: 4px;
+}
